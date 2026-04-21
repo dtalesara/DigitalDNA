@@ -126,7 +126,7 @@ You can:
 ## 📁 Project Structure
 
 ```
-digitaldna.py   # core framework
+digitaldna.ipynb   # core framework
 main.py         # your implementation
 README.md
 ```
